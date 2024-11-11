@@ -18,7 +18,7 @@ This repository showcases projects completed as part of the **CSC_51052_EP - Dat
      - Animation switching between
    - ![Result Animation](05-city_temperature_time_series_visualization_animation/result.gif)
 
-### 3. Project 3: [Project Name]
+### 3. Project 3: [Europe population density visualization]
    - **Description**: Visualization of population density by [NUTS region](https://ec.europa.eu/eurostat/web/nuts/background)
    - **Features**:
      - Visualization of NUTS regions
