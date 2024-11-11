@@ -1,6 +1,6 @@
 # Data Visualization D3 Projects
 
-This repository showcases projects completed as part of the **CSC_51052_EP - Data Visualization** course at École Polytechnique. The projects focus on data visualization using **D3.js** and include various interactive graphics, animations, and visual representations of data. Each project is accompanied by images and GIFs that illustrate the results.
+This repository showcases projects completed as part of the **CSC_51052_EP - Data Visualization** course at École Polytechnique. The projects focus on data visualization using **D3.js** and include various interactive graphics, animations, and visual representations of data. Each project is accompanied by images or GIFs that illustrate the results.
 
 ## Projects
 
