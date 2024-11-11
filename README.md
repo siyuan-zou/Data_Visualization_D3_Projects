@@ -31,3 +31,11 @@ This repository showcases projects completed as part of the **CSC_51052_EP - Dat
    ```bash
    git clone https://github.com/yourusername/Data_Visualization_D3_Projects.git
    cd Data_Visualization_D3_Projects
+
+2. Start a local server with Python 3:
+   ```bash
+   python -m http.server 8000
+
+3. Open your browser and go to http://localhost:8000
+
+4. Click on the HTML file for the project you want to view
